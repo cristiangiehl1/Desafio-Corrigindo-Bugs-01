@@ -1,8 +1,8 @@
 <h1 align="center"> Corrigindo Bugs </h1>
 
 <p align="center">
-Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 01.
-Mas, a surpresa vem aí...  👀  
+Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 01. <br>
+Mas, a surpresa vem aí...  👀  <br>
 O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou. <br/>
 <a href="">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>

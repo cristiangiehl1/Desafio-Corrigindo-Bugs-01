@@ -16,7 +16,7 @@ O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="/images/github/preview.png" width="100%">
+  <img alt="desafio corrigindo bugs" src="/images/github/projetobugado.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,21 +28,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
-
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://cristiangiehl1.github.io/Projeto-DevLinks/)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
-
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+Você pode visualizar o layout do desafio através [DESSE LINK]([https://www.figma.com/community/file/1187422022288947321](https://www.figma.com/file/BiNZdeWaBS8aBI9N86cBAh/Explorer---Projeto-01-(Copy)?type=design&node-id=0-1&mode=design&t=BLsvuBf63twO8cDn-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 

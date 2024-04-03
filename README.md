@@ -1,6 +1,6 @@
 <h1 align="center"> Corrigindo Bugs </h1>
 
-<p align="center">
+<p align="justify">
 Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 01. <br>
 Mas, a surpresa vem aí...  👀  <br>
 O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou. <br/>
@@ -13,11 +13,6 @@ O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele 
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <br>
 
 <p align="center">

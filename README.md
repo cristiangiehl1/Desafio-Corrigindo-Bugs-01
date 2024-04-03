@@ -16,7 +16,7 @@ O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="projeto DevLinks" src="/images/github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
